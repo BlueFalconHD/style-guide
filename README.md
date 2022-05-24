@@ -48,17 +48,17 @@ You can create ports using [this](https://github.com/catppuccin/template) public
 
 These are general use cases for most of the palette relevant for user interfaces. The `function` expresses a very vague use-case of a color and the `scope example` how it is generally used:
 
-| Function     | Scope Examples                     | Color     |
-| ------------ | ---------------------------------- | --------- |
-| `base`       | `splits`; `sign columns`           | black0    |
-| `surface`    | `x`                                | black1    |
-| `top`        | `background`                       | black2    |
-| `overlay`    | `floating elements`; `cursor line` | black3    |
-| `standout`   | `searches`                         | black4    |
-| `subtle`     | `comments`                         | gray0     |
-| `active`     | `foreground`                       | white     |
-| `inactive`   | `x`                                | gray2     |
-| `projection` | `cursors`                          | rosewater |
+| Function     | Scope Examples                     | Color     | Color Hex  |                                                                          |
+| ------------ | ---------------------------------- | --------- |------------|------------------------------------------------------------------------- |
+| `base`       | `splits`; `sign columns`           | black0    | `#161320`  | <img src="assets/palette/circles/black0.png" height="23" width="23"/>    |
+| `surface`    | `x`                                | black1    | `#1A1826`  | <img src="assets/palette/circles/black1.png" height="23" width="23"/>    |
+| `top`        | `background`                       | black2    | `#1E1E2E`  | <img src="assets/palette/circles/black2.png" height="23" width="23"/>    |
+| `overlay`    | `floating elements`; `cursor line` | black3    | `#302D41`  | <img src="assets/palette/circles/black3.png" height="23" width="23"/>    |
+| `standout`   | `searches`                         | black4    | `#575268`  | <img src="assets/palette/circles/black4.png" height="23" width="23"/>    |
+| `subtle`     | `comments`                         | gray0     | `#6E6C7E`  | <img src="assets/palette/circles/gray0.png" height="23" width="23"/>     |
+| `active`     | `foreground`                       | white     | `#D9E0EE`  | <img src="assets/palette/circles/white.png" height="23" width="23"/>     |
+| `inactive`   | `x`                                | gray2     | `#C3BAC6`  | <img src="assets/palette/circles/gray2.png" height="23" width="23"/>     |
+| `projection` | `cursors`                          | rosewater | `#F5E0DC`  | <img src="assets/palette/circles/rosewater.png" height="23" width="23"/> |
 
 # 🎃 Terminals
 
